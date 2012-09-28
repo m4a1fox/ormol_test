@@ -1,0 +1,38 @@
+[Wed Sep 26 15:59:44 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse/themes, referer: http://leavse.local/columns.html
+[Wed Sep 26 15:59:44 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse/favicon.ico
+[Wed Sep 26 16:56:11 2012] [error] [client 127.0.0.1] Directory index forbidden by Options directive: /home/maxim/workspace/leavse/
+[Wed Sep 26 16:56:11 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse/favicon.ico
+[Wed Sep 26 17:21:00 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse_test/images/prettyPhoto, referer: http://leavse_test.local/portfolio.html
+[Wed Sep 26 17:21:00 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse_test/images/prettyPhoto, referer: http://leavse_test.local/portfolio.html
+[Wed Sep 26 17:21:00 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse_test/images/prettyPhoto, referer: http://leavse_test.local/portfolio.html
+[Wed Sep 26 17:21:00 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse_test/images/prettyPhoto, referer: http://leavse_test.local/portfolio.html
+[Wed Sep 26 17:21:00 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse_test/images/prettyPhoto, referer: http://leavse_test.local/portfolio.html
+[Wed Sep 26 17:21:00 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse_test/images/prettyPhoto, referer: http://leavse_test.local/portfolio.html
+[Wed Sep 26 17:21:00 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leavse_test/images/prettyPhoto, referer: http://leavse_test.local/portfolio.html
+[Thu Sep 27 18:01:41 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/favicon.ico
+[Thu Sep 27 18:01:49 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/favicon.ico
+[Thu Sep 27 18:01:53 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/favicon.ico
+[Thu Sep 27 18:50:12 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/images/prettyPhoto, referer: http://leaf_test.local/portfolio-2-column.html
+[Thu Sep 27 18:50:12 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/images/prettyPhoto, referer: http://leaf_test.local/portfolio-2-column.html
+[Thu Sep 27 18:50:12 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/images/prettyPhoto, referer: http://leaf_test.local/portfolio-2-column.html
+[Thu Sep 27 18:50:12 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/images/prettyPhoto, referer: http://leaf_test.local/portfolio-2-column.html
+[Thu Sep 27 18:50:12 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/images/prettyPhoto, referer: http://leaf_test.local/portfolio-2-column.html
+[Thu Sep 27 18:50:12 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/images/prettyPhoto, referer: http://leaf_test.local/portfolio-2-column.html
+[Thu Sep 27 18:50:12 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/images/prettyPhoto, referer: http://leaf_test.local/portfolio-2-column.html
+[Thu Sep 27 18:59:32 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/themes, referer: http://leaf_test.local/portfolio.html
+[Thu Sep 27 18:59:33 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/leaf_test/favicon.ico
+[Fri Sep 28 16:10:11 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/favicon.ico
+[Fri Sep 28 16:12:19 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:19 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:19 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:19 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:19 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:19 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:24 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:24 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:24 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:24 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:24 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:12:24 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/fonts, referer: http://ormol_test.local/
+[Fri Sep 28 16:40:05 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/themes, referer: http://ormol_test.local/blog-left.html
+[Fri Sep 28 16:40:05 2012] [error] [client 127.0.0.1] File does not exist: /home/maxim/workspace/ormol_test/favicon.ico
